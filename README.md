@@ -1,0 +1,2 @@
+# Customer-Segmentation-of-PT-Bank-Sumut-Based-on-Mobile-Banking-Transaction-Data-
+Customer Segmentation of PT Bank Sumut Based on Mobile Banking Transaction Data Using K-Means Clustering is a customer segmentation project developed at PT Bank Sumut to analyze customer behavior based on M-Banking transaction data. The project applies the K-Means Clustering algorithm to group customers with similar transaction characteristics.
